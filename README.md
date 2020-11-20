@@ -1,2 +1,3 @@
-# TEAMxXx
-Pubg Hack Script
+
+gg.alert("ANTIBAN ACTIVATED BY ISMAIL")
+
